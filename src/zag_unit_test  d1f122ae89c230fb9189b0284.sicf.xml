@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/bc/webdynpro/sap/ZAG_UNIT_TEST/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>ZAG_UNIT_TEST</ICF_NAME>
+    <HDROTR401>000D3A8FA0651EEB9999408340A908C7</HDROTR401>
+    <BODOTR401>000D3A8FA0651EEB999941B0180188C7</BODOTR401>
+    <ORIG_NAME>ZAG_UNIT_TEST</ORIG_NAME>
+   </ICFSERVICE>
+   <ICFDOCU>
+    <ICF_NAME>ZAG_UNIT_TEST</ICF_NAME>
+    <ICF_LANGU>E</ICF_LANGU>
+    <ICF_DOCU>unit test</ICF_DOCU>
+   </ICFDOCU>
+  </asx:values>
+ </asx:abap>
+</abapGit>
